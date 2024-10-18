@@ -31,5 +31,5 @@ app.listen(port,()=>{
 })
 
 app.use("/",(req,res)=>{
-    res.send("<h1>Welcome</h1>");
+    res.send("<h1>Welcome to Suby</h1>");
 })
